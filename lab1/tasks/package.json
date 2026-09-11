@@ -1,5 +1,5 @@
 {
-  "name": "task1",
+  "name": "tasks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@types/node": "^22.20.2",
     "typescript": "^7.0.2"
   },
   "dependencies": {
